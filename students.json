@@ -1,0 +1,17 @@
+{
+    "students": [
+        {
+            "name": "sakshi",
+            "class_name": "fifth",
+            "age": 19,
+            "father_name": "pawan",
+            "mother_name": "sita",
+            "monthly_fee": 2000.0,
+            "height": 158.0,
+            "weight": 61.0,
+            "bmi": 0.0,
+            "bmi_verdict": "Underweight",
+            "id": 1
+        }
+    ]
+}
